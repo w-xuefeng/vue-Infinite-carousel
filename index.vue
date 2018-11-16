@@ -27,10 +27,11 @@ export default {
       width: 500,      
       time: 300,
       items: [
-        'https://pub.wangxuefeng.com.cn/asset/img/bg51.jpg',
-        'https://pub.wangxuefeng.com.cn/asset/img/bg52.jpg',
-        'https://pub.wangxuefeng.com.cn/asset/img/bg53.jpg',
-        'https://pub.wangxuefeng.com.cn/asset/img/bg54.jpg'
+        'https://raw.githubusercontent.com/w-xuefeng/imgChange/master/img/bg52.jpg',
+        'https://raw.githubusercontent.com/w-xuefeng/imgChange/master/img/bg78.jpg',
+        'https://raw.githubusercontent.com/w-xuefeng/imgChange/master/img/bg79.jpg',
+        'https://raw.githubusercontent.com/w-xuefeng/imgChange/master/img/bg81.jpg',
+        'https://raw.githubusercontent.com/w-xuefeng/imgChange/master/img/bg82.jpg'
       ],      
       change: 0,
       index: 0
